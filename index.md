@@ -1,29 +1,33 @@
-## Welcome to GitHub Pages
-Maurois Juza Maravilla
-You can use the [editor on GitHub](https://github.com/Maurois127/sanctuary/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to Maurois' sanctuary
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe width="560" height="315" src="https://youtu.be/eMnxjdGTK4w" title="yt video" frameboarder="0" allow="accelerometer; autoplay; clipboard-write; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
+### Dzone
+
+Dzone is a place where I am in comfort. I often feel safe when I'm in my own zone. 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# Maurois 
+## Juza
+### Maravilla
 
-1. Numbered
-2. List
+# **LIKES** 
+- _anime_
+- _kpop (multistan)_
+- _books_
 
-**Bold** and _Italic_ and `Code` text
+# **DISLIKES**
+1. _milk_
 
-[Link](url) and ![Image](src)
+My socials: 
+<img src="https://imgbin.com/png/aC2bmbZL/instagram-logo-png" width="200"> [INSTAGRAM](https://www.instagram.com/ki_wee_29/)
+<img src="https://www.stickpng.com/img/icons-logos-emojis/tech-companies/twitter-logo" width="200"> [TWITTER](https://twitter.com/_mauroisj)
+<img src="https://www.pngitem.com/middle/hJhRiJi_facebook-png-transparent-facebook-vector-logo-png-download/" width="200"> [FACEBOOK](https://www.facebook.com/profile.php?id=100002391990438)
+
+
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
